@@ -1,4 +1,4 @@
-const prompt = require('prompt-sync')();
+const input = require('prompt-sync')();
 
 let alcool = 0
 let gasolina = 0
