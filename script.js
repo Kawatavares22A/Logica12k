@@ -9,9 +9,9 @@ while (resposta !== 4) {
     resposta = Number(input("Escolha seu combustível (1 - Álcool, 2 - Gasolina e 3 - Diesel"))
    if (resposta === 1) {
       alcool++
-} ElseIf (resposta === 2) {
+} else if (resposta === 2) {
       gasolina++
-} Else  (resposta === 3) {
+} else if  (resposta === 3) {
       diesel++
 }
 }
